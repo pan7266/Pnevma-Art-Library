@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.cs
+*.csproj
+*.lbart
+*.lbrn
+*.lbrn2
+*.pfx
+*.key
+.env*
+state.json
