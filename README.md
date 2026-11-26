@@ -21,18 +21,18 @@ The application includes workflows for exchanging artwork with LightBurn, Excel
 metadata import and portable library bundles. LightBurn is a separate application
 and license. Compatibility qualification is ongoing.
 
-## Current status
+## Windows installers
 
-**Windows x64 · In development · Proprietary software**
+**Windows x64 · Proprietary software**
 
-This repository is the product homepage. **App downloads are not published yet.**
-The current internal version is 0.6.3. Historical builds, development files and
-application source are maintained privately. No artwork library or customer data
-is distributed through this repository.
+[Download the latest Windows installer](https://github.com/pan7266/Pnevma-Art-Library/releases/latest) · [All versions](https://github.com/pan7266/Pnevma-Art-Library/releases)
+
+An Art Library license is required for activation. Each release lists the
+installer's SHA-256 checksum. The Windows installers are unsigned.
 
 ## What is next
 
-- A qualified Windows release with a supported runtime and signed distribution.
+- Trusted publisher signing for Windows installers.
 - Improved recovery, onboarding, customer settings and accessibility.
 - Subscription accounts, billing and clear offline access rules.
 - Native Mac and iPad applications, following platform feasibility work.
